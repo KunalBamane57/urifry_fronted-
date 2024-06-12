@@ -17,7 +17,6 @@ It installs the required dependencies to run the project
 ### `npm run dev`
 
 Runs the app in development mode.\
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 # About The Project :-
 
@@ -39,10 +38,3 @@ Dark Mode Implementation
 
 Hover Effects and Transitions
 
-## 
-
-## Links
-
-Live - https://uifry-landing-page-murex.vercel.app/
-
-Github - https://github.com/ShantanuSutar/uifry-landing-page
