@@ -38,3 +38,4 @@ Dark Mode Implementation
 
 Hover Effects and Transitions
 
+animations'
